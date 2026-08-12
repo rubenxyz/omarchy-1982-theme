@@ -1,0 +1,40 @@
+accent = "#FF00FF"
+cursor = "#00FF00"
+foreground = "#00FF00"
+background = "#000000"
+selection_foreground = "#000000"
+selection_background = "#00FF00"
+
+# Black
+color0 = "#000000"
+# Red
+color1 = "#FF0000"
+# Green
+color2 = "#00FF00"
+# Yellow
+color3 = "#FFFF00"
+# Blue
+color4 = "#0000FF"
+# Magenta
+color5 = "#FF00FF"
+# Cyan
+color6 = "#00FFFF"
+# Light Gray
+color7 = "#E0E0E0"
+
+# Dark Gray
+color8 = "#808080"
+# Bright Red
+color9 = "#FF8080"
+# Bright Green
+color10 = "#80FF80"
+# Bright Yellow
+color11 = "#FFFF80"
+# Bright Blue
+color12 = "#8080FF"
+# Bright Magenta
+color13 = "#FF80FF"
+# Bright Cyan
+color14 = "#80FFFF"
+# White
+color15 = "#FFFFFF"
