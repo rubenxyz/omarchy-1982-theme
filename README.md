@@ -1,6 +1,6 @@
-# 1982
+# Bliss 95
 
-An Omarchy theme inspired by classic 1980s computer aesthetics: black background with pure RGB colors.
+An Omarchy theme inspired by early computer aesthetics: black background with pure RGB colors.
 
 ## Palette
 
@@ -18,18 +18,18 @@ Full 16-color ANSI palette in `colors.toml`.
 Via the Omarchy menu: `Install > Style > Theme` (`Super + Alt + Space`) and paste this repo URL:
 
 ```
-https://github.com/rubenxyz/omarchy-1982-theme
+https://github.com/rubenxyz/omarchy-bliss95-theme
 ```
 
 Or from the terminal:
 
 ```
-omarchy theme install https://github.com/rubenxyz/omarchy-1982-theme
+omarchy theme install https://github.com/rubenxyz/omarchy-bliss95-theme
 ```
 
 ## Screenshot
 
-![1982 preview](preview.png)
+![bliss 95 preview](preview.png)
 
 ## Credits
 
